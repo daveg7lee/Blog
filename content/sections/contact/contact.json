@@ -1,13 +1,13 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "ki hyun lee",
+  "email": "daveg7lee@gmail.com",
+  "description": "Feel free to contact me with any questions.",
   "image": {
-    "src": "../../images/favicon.png",
+    "src": "../../images/ki-hyun-lee.png",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
   }
 }

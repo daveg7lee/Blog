@@ -3,12 +3,8 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I'm a software developer living in South Korea. My work mainly revolves around web and app development. If you have any questions about web or flutter, just hit me up and I'll be happy to help
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+You can follow me on <a href="https://www.linkedin.com/in/daveg7lee/" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Linkedin</u></a> where I mostly post about web technologies. If you happen to speak Korean, my Korean name is 이기현.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Outside of programming, I enjoy play soccer, reading, Korean fried chicken, watching movie, and writing blog.
