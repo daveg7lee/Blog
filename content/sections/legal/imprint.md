@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Ki hyun lee<br />
+6, Nammaegongwon-ro<br />
+Gyeongsan-si<br />
+South Korea
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>daveg7lee@gmail.com</u>
 
 ---
 

@@ -26,7 +26,7 @@ Chat GPT, which is based on GPT-3, also operates on the same principle, with the
 > 🚨 If you can't imagine how big 45TB is:
 > If you save a 1-hour movie, you can store about 22,500 movies, and if you save a photo that is about 5~7MB, it is an enormous capacity that can store from 6,428,571 to 9,000,000 photos.
 
-In the past, many people thought that GPT-3 was not that great when they heard this explanation, but nowadays, Chat GPT proudly shows off its power.
+In the past, many people thought that GPT-3 was not that great when they heard this explanation, but nowadays, Chat GPT proudly shows off its power. As such, additional information shall be withheld.
 
 # Auto-GPT
 
@@ -80,11 +80,11 @@ pip install -r requirements.txt
 
 After that, find the file .env.template and duplicate it.
 
-![](https://velog.velcdn.com/images/kihyun/post/005333ac-9c49-4211-a92c-30a42fc05bff/image.png)
+<img src="https://velog.velcdn.com/images/kihyun/post/005333ac-9c49-4211-a92c-30a42fc05bff/image.png" width="100%">
 
 Rename the duplicated file to .env.
 
-![](https://velog.velcdn.com/images/kihyun/post/31cfdf73-361f-4d52-99c1-ab3f4f5959be/image.png)
+<img src="https://velog.velcdn.com/images/kihyun/post/31cfdf73-361f-4d52-99c1-ab3f4f5959be/image.png" width="100%">
 
 Now, you need to get some API keys. First, you need an Open AI API key because you are using GPT-4 and GPT-3. You can get the API key from the website below, and once you create it, you cannot check it again, so copy it well at once.
 
@@ -92,7 +92,7 @@ Now, you need to get some API keys. First, you need an Open AI API key because y
 
 Then, paste the copied API key into the OPENAI_API_KEY section in the .env file.
 
-![](https://velog.velcdn.com/images/kihyun/post/bf7d0837-92ed-44f9-8952-83f4d9955fde/image.png)
+<img src="https://velog.velcdn.com/images/kihyun/post/bf7d0837-92ed-44f9-8952-83f4d9955fde/image.png" width="100%">
 
 Since our smart Jarvis needs to search on Google, you also need a Google API key. To do this, you need to go to the following site and create a new project.
 

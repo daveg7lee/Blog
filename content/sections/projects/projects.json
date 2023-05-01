@@ -2,13 +2,32 @@
   "projects": [
     {
       "visible": true,
+      "category": "🕹️ Data Engineering",
+      "title": "Roles Search",
+      "description": "Led the implementation of the tool's backend using NestJS framework, which included data collection, analysis, and scoring algorithms. Collaborated with frontend developers to integrate the backend with the tool's frontend using Next.js and Chakra UI. Worked with a DevOps team to ensure the tool was deployed and scaled effectively using AWS. Conducted extensive testing and debugging to ensure the tool's functionality and reliability. provide analysis functions such as long-term IP popularity analysis, market trends, expected sales, and localization through its own scoring service to help customers establish more efficient strategies.",
+      "tags": ["Python", "AWS Lambda", "NextJS", "NestJS", "Chakra UI"],
+      "image": {
+        "src": "../../images/roles-search.png",
+        "alt": "Preview",
+        "linkTo": "https://analytics.roles.kr"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://analytics.roles.kr"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🕹️ Blockchain",
       "title": "Submeet",
       "description": "As a member of the web service team, developed and operated the 'Music NFT Sales' service. Developed an admin panel used for service operation. Integrate and debug blockchain code for NFT creation, sales, and management.",
-      "tags": ["Music NFT", "Blockchain"],
+      "tags": ["Solidity", "NextJS", "NestJS"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup"
+        "alt": "Preview",
+        "linkTo": "https://submeet.xyz"
       },
       "links": [
         {
@@ -22,10 +41,11 @@
       "category": "🧰 Facilities",
       "title": "DICS Students",
       "description": "A site that manages disciplinary points for DICS school students. Building a disciplinary points check site for students and an admin site. Building a suggestion box system where students can suggest what they want. The site has been operational since its launch and has undergone maintenance.",
-      "tags": ["DICS", "for students"],
+      "tags": ["NextJS", "NestJS", "GraphQL", "Prisma"],
       "image": {
         "src": "../../images/dics-students.jpg",
-        "alt": "DICS Students"
+        "alt": "DICS Students",
+        "linkTo": "https://dics.life/"
       },
       "links": [
         {
@@ -35,6 +55,24 @@
         {
           "type": "github",
           "url": "https://github.com/daveg7lee/dics-frontend"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Facilities",
+      "title": "DICS Computer Usage Record Sheet",
+      "description": "A program that efficiently manages the computer usage of DICS students. Built quickly using Supabase, an open-source version of Firebase, as the backend. A system is built to record and store the start and end times of students' computer usage.",
+      "tags": ["Flutter", "Supabase"],
+      "image": {
+        "src": "../../images/flutter.jpg",
+        "alt": "DICS Computer Usage Record Sheet",
+        "linkTo": "https://github.com/daveg7lee/csa_usage_history"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/daveg7lee/csa_usage_history"
         }
       ]
     }
