@@ -1,16 +1,16 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://kihyun.me",
     "title": "Ki hyun lee",
-    "titleTemplate": "ki hyun lee",
+    "titleTemplate": "%s | ki hyun lee",
     "description": "ki hyun lee's portfolio",
     "author": "ki hyun lee",
     "avatar": "../content/images/ki-hyun-lee.png",
     "bio": "Submeet Software Developer.",
     "social": {
+      "buymeacoffee": "https://www.buymeacoffee.com/daveg7lee",
       "github": "https://github.com/daveg7lee",
-      "medium": "https://medium.com",
       "linkedin": "https://www.linkedin.com/in/daveg7lee/",
       "mail": "mailto:daveeg7lee@gmail.com"
     }
