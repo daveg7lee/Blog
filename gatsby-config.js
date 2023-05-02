@@ -1,5 +1,9 @@
 module.exports = {
+  siteMetadata: {
+    siteUrl: `https://kihyun.me`,
+  },
   plugins: [
+    `gatsby-plugin-advanced-sitemap`,
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
