@@ -3,8 +3,8 @@ title: "Explore SvelteKit"
 description: "Learn about SvelteKit"
 date: "2022-02-19"
 banner:
-  src: "../../images/Iron-man.jpg"
-  alt: "Iron man"
+  src: "../../images/sveltekit.png"
+  alt: "sveltekit"
 categories:
   - "Explore"
 keywords:

@@ -3,8 +3,8 @@ title: "Why should we study AWS?"
 description: "Reasons to study AWS"
 date: "2022-10-23"
 banner:
-  src: "../../images/Iron-man.jpg"
-  alt: "Iron man"
+  src: "../../images/aws.jpg"
+  alt: "AWS"
 categories:
   - "AWS"
 keywords:

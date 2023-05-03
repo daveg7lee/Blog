@@ -3,8 +3,8 @@ title: "Now the real Jarvis..?"
 description: "Learn about ChatGPT and Auto GPT"
 date: "2023-04-30"
 banner:
-  src: "../../images/Iron-man.jpg"
-  alt: "Iron man"
+  src: "../../images/chatgpt.png"
+  alt: "Chat GPT"
 categories:
   - "AI"
 keywords:

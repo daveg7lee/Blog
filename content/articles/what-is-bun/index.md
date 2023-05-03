@@ -3,8 +3,8 @@ title: "Explore Bun"
 description: "Learn about Bun"
 date: "2023-04-23"
 banner:
-  src: "../../images/Iron-man.jpg"
-  alt: "Iron man"
+  src: "../../images/bun.png"
+  alt: "bun"
 categories:
   - "Explore"
 keywords:
