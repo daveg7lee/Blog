@@ -20,6 +20,24 @@
     },
     {
       "visible": true,
+      "category": "🤖 Artificial Intelligence",
+      "title": "Beesokyeo",
+      "description": "A Chrome extension that purifies sentences containing user-specified words. developed Chrome extensions and fine tuned the GPT model. Won second place in a competition in which about 100 people participated.",
+      "tags": ["Javascript", "Django", "GPT 3.5"],
+      "image": {
+        "src": "../../images/beesokyeo.png",
+        "alt": "Preview",
+        "linkTo": "https://chrome.google.com/webstore/detail/%EB%B9%84%EC%86%8D%EC%97%AC/lgnlfmkaidpagdbfifllenfgekfeeifp?hl=ko"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://chrome.google.com/webstore/detail/%EB%B9%84%EC%86%8D%EC%97%AC/lgnlfmkaidpagdbfifllenfgekfeeifp?hl=ko"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "🕹️ Blockchain",
       "title": "Submeet",
       "description": "As a member of the web service team, developed and operated the 'Music NFT Sales' service. Developed an admin panel used for service operation. Integrate and debug blockchain code for NFT creation, sales, and management.",
@@ -57,6 +75,17 @@
           "url": "https://github.com/daveg7lee/dics-frontend"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "🕹️ Embedded",
+      "title": "DICS Finterprint Attendance System",
+      "description": "Develop a fingerprint device utilizing a Raspberry Pi and a fingerprint sensor, and seamlessly integrate it with the school's student database to enhance attendance tracking efficiency, resulting in a significant reduction in tardiness by over 80%.      ",
+      "tags": ["Raspberry Pi", "Python", "PostgreSQL"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Preview"
+      }
     },
     {
       "visible": true,
