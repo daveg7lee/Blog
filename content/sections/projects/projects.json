@@ -3,11 +3,11 @@
     {
       "visible": true,
       "category": "🕹️ Data Engineering",
-      "title": "Roles Search",
+      "title": "IPPY",
       "description": "Led the implementation of the tool's backend using NestJS framework, which included data collection, analysis, and scoring algorithms. Collaborated with frontend developers to integrate the backend with the tool's frontend using Next.js and Chakra UI. Worked with a DevOps team to ensure the tool was deployed and scaled effectively using AWS. Conducted extensive testing and debugging to ensure the tool's functionality and reliability. provide analysis functions such as long-term IP popularity analysis, market trends, expected sales, and localization through its own scoring service to help customers establish more efficient strategies.",
       "tags": ["Python", "AWS Lambda", "NextJS", "NestJS", "Chakra UI"],
       "image": {
-        "src": "../../images/roles-search.png",
+        "src": "../../images/ippy.png",
         "alt": "Preview",
         "linkTo": "https://analytics.roles.kr"
       },
@@ -79,7 +79,7 @@
     {
       "visible": true,
       "category": "🕹️ Embedded",
-      "title": "DICS Finterprint Attendance System",
+      "title": "DICS Fingerprint Attendance System",
       "description": "Develop a fingerprint device utilizing a Raspberry Pi and a fingerprint sensor, and seamlessly integrate it with the school's student database to enhance attendance tracking efficiency, resulting in a significant reduction in tardiness by over 80%.      ",
       "tags": ["Raspberry Pi", "Python", "PostgreSQL"],
       "image": {
