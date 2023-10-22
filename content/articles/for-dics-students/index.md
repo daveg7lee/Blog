@@ -19,14 +19,14 @@ keywords:
 
 # 전공을 고르는 방법
 
-먼저 대학을 고르기 전에 전공부터 골라야 한다. 미국 대학들은 전체 순위보다 전공별 순위가 훨씬 중요하기 때문이다. 예를 들어 미시건 주립대는 전미 60위권의 대학이지만 핵물리학으로는 MIT를 씹어먹는 대학이다. 그러니 대학을 고르기 전에 먼저 전공을 고르는 것이 중요하다. 전공은 10학년때 정해두는 것이 가장 좋지만 자신이 11학년이라고 해도 걱정없다. 자신이 가장 좋아하는것 가장 즐길 수 있는 것을 골라라. 지금 고르지 못했다고 해도 괜찮다. 전공이 없이 대학에 가도 되고, 전공과 다른 직업을 가지고 될지도 모르는 일이다. 다만, 대학교를 선택하는 과정에 있어서 전공을 정해두는 것이 더욱 메리트가 있다는 것이다.
+먼저 대학을 고르기 전에 전공부터 골라야 한다. 미국 대학들은 전체 순위보다 전공별 순위가 중요하기 때문이다. 예를 들어 미시건 주립대는 전미 60위권의 대학이지만 핵물리학으로는 MIT와 비슷한 수준이다. 그러니 대학을 고르기 전에 먼저 전공을 고르는 것이 중요하다. 전공은 10학년때 정해두는 것이 가장 좋지만 자신이 11학년이라고 해도 걱정없다. 자신이 가장 좋아하는것 가장 즐길 수 있는 것을 골라라. 지금 고르지 못했다고 해도 괜찮다. 전공이 없이 대학에 가도 되고, 전공과 다른 직업을 가지고 될지도 모르는 일이다. 다만, 대학교를 선택하는 과정에 있어서 전공을 정해두는 것이 더욱 메리트가 있다는 것이다.
 
 # 자신에게 맞는 대학을 찾는 방법
 
 위에서 언급했다시피 자신에게 맞는 대학을 찾기 위해서는 전공이 가장 중요하다. 전공을 정했다면 그 다음으로는 자신의 GPA, 토플 점수, SAT 점수를 고려하여 대학을 골라야 한다. 대학 정보를 제공해주는 사이트는 여러가지가 있지만 나는 아래 2가지 사이트를 추천한다.
 https://www.usnews.com
 https://www.niche.com
-자신의 토플 점수가 95점 이상이라면 왠만한 커트라인은 다 넘긴다고 생각하면 되지만 그래도 불안하다면 구글에 000 University toefl requirement라고 검색하라 상단에 학교 공식 사이트가 나올텐데 거기 적혀있는 토플 점수가 커트라인이다. (절대로 구글에 나오는 정보를 믿어서는 안된다. 학교 공식 사이트만 믿어야지 나중에 항의할 수 있다.) SAT나 GPA도 비슷한 방식으로 검색하면 되지만 SAT랑 GPA는 requirement보다는 average로 검색하는편이 정확하다.
+자신의 토플 점수가 95점 이상이라면 왠만한 커트라인은 다 넘긴다고 생각하면 되지만 그래도 불안하다면 구글에 000 University toefl requirement라고 검색하라 상단에 학교 공식 사이트가 나올텐데 거기 적혀있는 토플 점수가 커트라인이다. (절대로 구글에 나오는 정보를 믿어서는 안된다. 학교 공식 사이트만 믿어야 한다.) SAT나 GPA도 비슷한 방식으로 검색하면 되지만 SAT랑 GPA는 requirement보다는 average로 검색하는편이 정확하다.
 등록금, 합격률, SAT 필수 여부, GPA 필수 여부에 대한 정보를 알고 싶다면 내가 만든 사이트를 참고하라.
 사용 방법:
 
@@ -36,8 +36,9 @@ https://www.niche.com
 3. 내가 만든 웹 사이트로 가서 해당 숫자들을 붙여 넣는다.
    <img src="../../images/College-Researcher.png">
    https://daveg7lee.github.io/college_researcher/
-   또한 아래는 내가 가고 싶은 대학교를 정리할때 사용했던 스프레드시트이다. 학비, 합격률, 토플, 에세이 개수, 지원비를 입력하면 평균 혹은 총합을 알려준다. 잘 발전시켜서 사용하길 바란다.
-   https://docs.google.com/spreadsheets/d/1QA-i3MGf459GJFWulyaZH8VXqIWFB2d3uaarYeK0t5k/edit?usp=sharing
+
+또한 아래는 내가 가고 싶은 대학교를 정리할때 사용했던 스프레드시트이다. 학비, 합격률, 토플, 에세이 개수, 지원비를 입력하면 평균 혹은 총합을 알려준다. 잘 발전시켜서 사용하길 바란다.
+https://docs.google.com/spreadsheets/d/1QA-i3MGf459GJFWulyaZH8VXqIWFB2d3uaarYeK0t5k/edit?usp=sharing
 
 ## 전공별 대학 추천
 
@@ -46,6 +47,7 @@ https://www.niche.com
 ### Computer Science
 
 https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings
+
 대학을 선택한 기준은 순위, 합격률, 취업률, 인지도를 바탕으로 선택하였다. 물론 이 글을 읽는 학생들은 나보다 우수할 것이 저명하므로 아래 리스트보다 한 두단계 높은 대학을 지원하길 바란다.
 
 - Northeastern University (co-op 전미 1위, CS 전미 35위, 보스턴에 위치함) - 실리콘 밸리 취업률 전미 15위
@@ -58,12 +60,15 @@ https://www.usnews.com/best-graduate-schools/top-science-schools/computer-scienc
 # 토플에 대하여
 
 토플. DICS에서 가장 중요하다고 생각하는 요소 중 하나이다. 내 개인적인 생각과 경험으로는 토플은 크게 중요하지 않다. 토플 110점을 장학금을 주는 경우는 거의 없다. 생각해보자. 만약 한국으로 유학을 오는 유학생이 한국어 검정 능력 시험에서 100점을 맞았다고 한다면, 분명 한국어 공부를 열심히 한 학생으로 비치겠지만 공부를 잘한다고 생각하기에는 무리가 있을것이다. 그러니 토플은 80점대만 넘으면 SAT와 병행하는 것을 추천한다. SAT 공부를 하다보면 토플은 자연스럽게 할 수 있을 것이다.
+
 토플 공부용으로 추천하는 사이트는 https://toeflgo.ets.org/dashboard 이게 있고
+
 리스닝 연습으로 추천하는 유튜브는 아래 2가지 정도가 있는데 찾아보면 비슷한 것들은 충분히 많은 것 같다. 아래 유튜브들의 공통점은 1. 삶의 도움이 되는 조언이고 2. 재미있고 3. 영어이지만 4. 영어를 못해도 이해할 수 있게 한국어 자막이 있다. 5. 마지막으로 불필요하고 흐름을 끊는 부연설명이 없다.
 
 1. https://www.youtube.com/@projsnowball
 2. https://www.youtube.com/@TV-kt8fj
-   여기서 추가로 말하고 싶은 것은 한국어 자막이 있으면 영어가 늘지 않는다고 말하는 경우가 있는데 나 같은 경우에는 한국어 자막을 키고 거의 100시간이 넘는 코딩 강의를 들었다. 강의의 내용을 모두 이해하기 위해 정말 치열하게 들었고 계속해서 빠르게 내용을 이해하기 위해 노력하다보니 어느 순간 자막을 끄고도 내용을 이해할 수 있었고 150시간이 넘어가자 영어를 아무 어려움 없이 이해할 수 있었다. 그러니 그냥 들어라. Just Do it.
+
+여기서 추가로 말하고 싶은 것은 한국어 자막이 있으면 영어가 늘지 않는다고 말하는 경우가 있는데 나 같은 경우에는 한국어 자막을 키고 거의 100시간이 넘는 코딩 강의를 들었다. 강의의 내용을 모두 이해하기 위해 정말 치열하게 들었고 계속해서 빠르게 내용을 이해하기 위해 노력하다보니 어느 순간 자막을 끄고도 내용을 이해할 수 있었고 150시간이 넘어가자 영어를 아무 어려움 없이 이해할 수 있었다.
 
 # SAT와 AP 그리고 GPA
 
@@ -79,8 +84,20 @@ https://www.khanacademy.org/
 ## AP
 
 마찬가지로 좋은 대학에 진학하고 싶다면 거의 필수적인 요소 중 하나이다. 거의 모든 국제학교는 AP 코스를 제공하고 있지만 모두 알다시피 DICS는 아니다. 따라서 AP 시험을 쳐야만 하는데 이 시험을 일년에 딱 한번만 칠 수 있으며 서울에서만 응시할 수 있다. 시험은 5월달에 있지만 접수는 그 전년도 11월까지만 받는다. 그러니 11월에 접수하고 4개월동안 열심히 공부한다면 충분히 높은 점수를 받을 수 있을 것이다. 어떤 AP를 얼마나 응시해야 좋을지는 아래 영상을 참고하자
+
 https://www.youtube.com/watch?v=UoyuLya3NFo&t=2s
+
 AP 신청 사이트: https://www.fulbright.or.kr/registration/
+
+## GPA
+
+GPA 3.8이 높아 보이는가? 만약 저 점수가 낮아 보인다면 당신은 참된 DICS 학생이다.
+
+다음은 구글에 GPA 3.8이 높은 점수냐고 검색하면 나오는 답변이다.
+
+> If your school uses an unweighted GPA scale, a 3.8 is one of the highest GPAs you can get.
+
+솔직하게 말하자면 3.8은 DICS의 대부분의 학생들이 받지 못할 점수이다. 하지만 DICS는 예수님의 사랑이 충만한 학교가 아니겠는가? 3.8은 기본으로 깔고 가니 GPA에 관해서는 걱정할 부분이 없다. 하지만 자신의 목표가 그저 그런 주립대가 아닌 30위권 최상위 대학에 진학하고 싶다면 3.8은 확실히 아쉬운 점수이다. 그러니 4.0을 목표로 하라.
 
 # 추가적인 활동 (Activities, Honors)
 
@@ -88,7 +105,7 @@ AP 신청 사이트: https://www.fulbright.or.kr/registration/
 
 ## 대회
 
-무조건 대회란 대회는 모두 나가라. 특히 자신의 전공과 관련된 대회라면 더욱 좋다. 게다가 DICS에서는 아무런 제약 없이 외출도 나갈 수 있으므로 어떻게든 나갈 수 있는 대회는 모두 나갈 수 있도록 하라. 나 같은 경우에는 대회 4개에 출전해서 2개의 대회에서 상을 받았는데 아직도 조금 더 나갈걸 후회하는 부분이다.
+대회란 대회는 모두 나가라. 특히 자신의 전공과 관련된 대회라면 더욱 좋다. 게다가 DICS에서는 아무런 제약 없이 외출도 나갈 수 있으므로 어떻게든 나갈 수 있는 대회는 모두 나갈 수 있도록 하라. 나 같은 경우에는 대회 4개에 출전해서 2개의 대회에서 상을 받았는데 아직도 조금 더 나갈걸 후회하는 부분이다.
 
 ## 창업
 
@@ -97,7 +114,9 @@ AP 신청 사이트: https://www.fulbright.or.kr/registration/
 ## 인턴십
 
 인턴십은 내가 한 활동 중 가장 잘했다고 생각되는 활동 중 하나이다. 나는 2021년부터 넥슨의 데이터 분석가와 함께 Team verse라는 회사를 운영해가고 있는데 자신이 관심있는 분야에서 일을 하다보면 그 누구도 가르쳐 줄 수 없는 경험들을 얻게 된다. (설사 그게 나쁜 것이라 하더라도) 그러니 어떤 방법을 써서라도 인턴십을 얻기 위해 노력하라. 소규모 스타트업들은 무급 인턴십을 선호하므로 소규모 스타트업들에게 접근해보는 편이 좋을 것이다.
+
 스타트업의 정보를 얻고 싶다면 아래 사이트르 참고하라
+
 https://disquiet.io/
 
 ## 동아리
@@ -116,23 +135,7 @@ https://disquiet.io/
 
 에세이도 입시에서 정말 중요한 부분을 차지한다. 입학 사정관에게 자신에 대해 어필하고 설명할 수 있는 거의 유일한 방법이기 때문이다. 에세이를 쓰기 위해서는 먼저 위에서 한 활동 중 자신이 가장 자랑스럽게 여기는 활동을 골라서 작성하는 것을 추천한다. 나는 처음 대회에 나가서 우승하였던 이야기를 에세이로 작성하였는데 남들이 가지지 못한 특별한 스토리를 조금 더 부풀려서 작성하면 좋을듯 싶다. 물론 에세이는 절대로 혼자서 작성하려고 하면 안된다. DICS에는 학교에 어울리지 않을 정도로 대단한 대학교를 졸업하신 분들이 많으므로 선생님들을 많이 찾아가길 바란다. 나 같은 경우에는 이성실 교수님께 거의 2달 가까이 찾아가서 아래 에세이를 완성하였다.
 
-Topic: Discuss an accomplishment, event, or realization that sparked a period of personal growth and a new understanding of yourself or others.
-
-word limit: 650 words
-
-At 10:30 AM, the moment when the final reckoning was announced, it seemed to mark the culmination of a 24-hour journey, finally bearing fruit. we could not conceal our astonishment as we heard the amazing news. We had not anticipated that our team would secure first place.
-
-I have always been excited about inventing since I was a kid. It was fun to create new things, and I'm still eager to learn more. One day, I learned about coding at a gifted center I attended. As I was also interested in computers, I was completely fascinated about coding. However, the coding taught at the gifted center was not in-depth. So, I started looking for my own resources to study. After three years of study, I had developed a system to manage demerit points for school students and a system to check tardiness using a fingerprint reader. But I still felt incompetent and lacked collaboration experience. So, to fill these gaps in my abilities and knowledge, I decided to participate in a Hackathon.
-
-Hackathon is a collaborative event where product managers, developers, designers work together to create a themed project within a tight time frame, often lasting 24 hours or 2 nights and 3 days. The event typically involves professionals and college students, with few high school students taking part. So, despite the time constraints, many participants manage to produce high-quality work, and some successful startups have emerged from hackathon projects. Organizers either assign teams in advance or allow participants to form teams a week before the event to ensure a balanced mix of skills. However, the hackathon I joined had a unique approach.
-
-Due to the pandemic, the event was hosted online with about 50 participants. Team formation was supposed to happen 30 minutes before the hackathon started, and I learned that every team had already been created with a minimum of four members, except for ours, which had only two. Undaunted by the challenge, we chose to adopt the name 'The Underdogs' and remained determined to win.
-
-The hackathon's theme was to develop an app for creators. Our team, composed of strangers, had lengthy brainstorming sessions compared to other teams due to the need for sharing ideas. After a never-ending discussion, we decided to create a funding website to support video content creators. There was no one else to handle the development except me, so I began building the features right away. But, I soon encountered critical structural flaws, resulting in a complete restart. When I first realized it, I really wanted to jump out the window. Despite the setback, I set aside my frustration, deleted all the previous code, and started anew.
-
-Our team persisted in the competition without considering obstacles. The only thing that we could and should is to encourage and support one another in order to persevere all the way to the end. Frankly, when I discovered a structural defect and had to start over, I thought that we wouldn't make it to finish all the required features, and that we might have to turn in an incomplete project. But we pulled it off because of our strongly persisted passion to address the issue, and we literally refused to give up. I also learned how to communicate and collaborate with non-developers, as I stayed up all night developing features, fixing errors, and getting feedback.
-
-After the final presentation, I felt a deep sense of accomplishment that had nothing to do with winning or losing. For me, it was like a trophy that can only be earned by those who refuse to give up. And beyond the ranking and the quality of the result, I was convinced that I had created a valuable asset that could not be exchanged for a first place finish, one that would increase the price of my life and give me a stronger sense of challenge for a new future.
+https://docs.google.com/document/d/1c2d2iLAJBm0ncjSLQcV5n9T3voLZDN4XzHpz8DRlF0Y/edit?usp=sharing
 
 # 대학 지원하기
 
@@ -152,6 +155,7 @@ invite recommenders라는 버튼을 누르면 위 사진과 같은 화면이 뜨
 여기서 또 다른 팁을 주자면 추천서는 최대한 빨리 8월달 내로 이때까지 자신이 해온 활동들을 잘 정리해서 들고가는 편이 좋다. 그렇게 해야지만 선생님도 학생의 장점을 최대한 부각시켜 줄 수 있기 때문이다. 그리고 이건 내 개인적인 생각이지만 가장 먼저 찾아가는 학생에게 가장 열심히 써주시는 것 같다. (솔직히 나라면 3명 이상 쓰다보면 귀찮아져서 열심히 못 쓸거 같다... 그러니 최대한 빨리 찾아가자)
 아래는 내가 선생님들께 추천서를 부탁드릴때 챙겨갔던 문서이다.
 https://docs.google.com/document/d/176v56uTeY_OQ4xJdqWi0gwFIj8ehsSQYOwQ3E02DPic/edit?usp=sharing
+
 다시 한번 강조한다. **추천서를 부탁드릴땐 최대한 빨리 찾아가라**
 
 ## 지원하기
